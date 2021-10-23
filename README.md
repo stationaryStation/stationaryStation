@@ -23,6 +23,10 @@ A node.js bot made with customization in mind.
 
 A work in progress project meant to replace discord (As a chatting application)
 
+##### Awesome-dotfiles
+
+My configuration for awesomewm on my laptop.
+
 ##### My Website
 
 Yes, I now have one 
