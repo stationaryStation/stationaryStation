@@ -31,4 +31,4 @@ My configuration for awesomewm on my laptop.
 
 Yes, I now have one 
 
-[Click here to go there](https://perezbueno.xyz)
+[Click here to go there(broken because my brother decided to eliminate the entire main branch :/)](https://perezbueno.xyz)
