@@ -5,7 +5,7 @@
 #### What I use and like
 He uses:
   * **Awesomewm** (Github Repo Comming Soon)
-  * **NeoVim** (Github Repo Comming Soon)
+  * **NeoVim** [Go there](https://github.com/stationarystation/nvimex)
   * **Kitty** (Do i need to tell you again that the repo is comming soon here? ._. )
 
 He loves:
