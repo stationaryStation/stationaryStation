@@ -3,4 +3,4 @@
 ## Stats
 ![StationaryStation's github stats](https://github-readme-stats.vercel.app/api?username=stationaryStation&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
 ## Coding time
-[![StationaryStation's Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=stationnarystation&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://stationarystation.vercel.app)
+[![StationaryStation's Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=stationarystation&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://stationarystation.vercel.app)
